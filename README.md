@@ -14,7 +14,7 @@ To create a LAMP development environment on Windows 10 using Docker for Windows,
 ## Steps
 ### 1. Install Docker for Windows
 
-You can dowload and install Docker for Windows from the official [Docker] (https://docs.docker.com/docker-for-windows/install/#download-docker-for-windows). If you follow the installation guide on the same page, all necessary components will be installed, including `docker-compose`, which is a vital component. 
+You can dowload and install Docker for Windows from the official [Docker](https://docs.docker.com/docker-for-windows/install/#download-docker-for-windows). If you follow the installation guide on the same page, all necessary components will be installed, including `docker-compose`, which is a vital component. 
 
 Also make sure that the C drive is shared with Docker. You can do this by right clicking the Docker icon, Settings and shared drives.
 
